@@ -14,7 +14,7 @@ All detailed artefacts (diagrams, requirements, use cases, user stories, test ca
 
 ---
 
-## 2. Business Context and Drivers
+## 2. Business Context & Drivers
 
 The operator relied on a legacy Umbrella NMS to aggregate alarms from multiple underlying systems across mobile, fixed-line, and transport domains. Over time, the platform became increasingly unstable and difficult to maintain. Key issues included:
 
@@ -28,7 +28,7 @@ These challenges affected SLA compliance and slowed down incident handling. A fu
 
 ---
 
-## 3. Project Scope and Objectives
+## 3. Project Scope & Objectives
 
 The modernization replaced the monolithic system with a distributed microservices architecture. The scope covered:
 
@@ -44,7 +44,7 @@ The rollout was incremental, with the new system gradually taking over functiona
 
 ---
 
-## 4. Stakeholders and Collaboration
+## 4. Stakeholders & Collaboration
 
 The project involved System Owners, NOC Operators, OSS Maintenance Teams, Developers, DevOps Engineers, and External NMS Teams. Workshops, user-journey walkthroughs, and iterative reviews ensured alignment between business needs and technical design.
 
@@ -52,7 +52,7 @@ As the operator reorganized internally, additional NOC Teams and a new OSS unit 
 
 ---
 
-## 5. Key Challenges and Lessons Learned
+## 5. Key Challenges & Lessons Learned
 
 ### Technical Challenges
 - Splitting ELK indices for active and cleared alarms to resolve performance issues  
@@ -62,7 +62,7 @@ As the operator reorganized internally, additional NOC Teams and a new OSS unit 
 - Connector discrepancies caused by filter syntax differences and improved deduplication logic  
 - Correlation engine issues that required rule optimization and loop detection  
 
-### Delivery and Process Challenges
+### Delivery & Process Challenges
 - Poorly documented legacy scripts required reverse engineering  
 - Parallel operation of old and new systems introduced synchronization issues  
 - Automated tests became outdated as the system evolved  
@@ -72,7 +72,7 @@ As the operator reorganized internally, additional NOC Teams and a new OSS unit 
 ### Organizational Challenges
 - Operator restructuring increased the number of user groups  
 
-### Personal and Team Lessons
+### Personal & Team Lessons
 - Interdisciplinary work required strong time management  
 - Clear communication and repeated validation were essential  
 - Earlier user involvement and continuous test maintenance would have reduced rework  
@@ -103,7 +103,7 @@ As the operator reorganized internally, additional NOC Teams and a new OSS unit 
 
 ---
 
-## 7. My Role and Responsibilities
+## 7. My Role & Responsibilities
 
 My involvement covered the full lifecycle of the project:
 
@@ -128,7 +128,7 @@ For readers who want to explore the project in more depth, more details are incl
 
 ---
 
-# Polish Version
+# Wersja polska
 
 ## 1. Wprowadzenie
 
