@@ -1,9 +1,11 @@
 ## Portfolio - Business & Systems Analysis
 
-Portfolio showcasing my work in business and systems analysis, including a case study. Future updates will add a sample REST API definition (Swagger/OpenAPI) and a Power BI dashboard to highlight data‑driven insights.
+Portfolio showcasing my work in business and systems analysis, including a case study and [a sample REST API definition (Swagger / OpenAPI)](https://balgalczynski.github.io/balgalczynski-portfolio-rest-api/).
+Future updates will add a Power BI dashboard to highlight data‑driven insights.
 
 **PL:**  
-Portfolio prezentujące moją pracę jako Analityka Biznesowo-Systemowego, w tym case study. W przyszłości planuję dodać przykładową definicję REST API (Swagger/OpenAPI) oraz dashboard Power BI pokazujący analizę danych.
+Portfolio prezentujące moją pracę jako Analityka Biznesowo-Systemowego, w tym case study i [przykładową definicję REST API (Swagger / OpenAPI)](https://balgalczynski.github.io/balgalczynski-portfolio-rest-api/).
+W przyszłości planuję dodać dashboard Power BI pokazujący analizę danych.
 
 ## License
 
