@@ -12,6 +12,8 @@ This condensed case study presents the transformation of a legacy Umbrella Netwo
 All detailed artefacts (diagrams, requirements, use cases, user stories, test cases) are included in the full case study document available here:  
 [umbrella-nms-case-study.pdf](./umbrella-nms-case-study.pdf)
 
+A sample REST API definition, created based on this case study, can also be found at [the link](https://balgalczynski.github.io/balgalczynski-portfolio-rest-api/).
+
 ---
 
 ## 2. Business Context & Drivers
@@ -136,6 +138,8 @@ To skrócone case study opisuje modernizację systemu Umbrella NMS używanego pr
 
 Pełny zestaw artefaktów, w tym diagramy, wymagania, przypadki użycia, user stories i przykładowe scenariusze testowe, znajduje się w pełnym dokumencie:  
 [umbrella-nms-case-study.pdf](./umbrella-nms-case-study.pdf)
+
+Przykładową definicję REST API, powstałą w oparciu o niniejsze case study, można znaleźć [pod tym linkiem](https://balgalczynski.github.io/balgalczynski-portfolio-rest-api/).
 
 ---
 
